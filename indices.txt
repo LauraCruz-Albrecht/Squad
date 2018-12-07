@@ -1,0 +1,56 @@
+Indices of each field in the form csv file.
+
+These fields, in order, correspond to the contents of the global `responses_header`
+variable defined at the top of Squad.py. Can use file as a reference for which index 
+to use when indexing into the results grid inside Squad.py (2D list verion of the csv table).
+----------------------------------------------------------------------------------------------
+
+0 Timestamp
+1 Email Address
+2 First Name
+3 Last Name
+4 Email Address
+5 My class year is
+6 I identify most with the following gender:
+7 I'm interested in building new friendships with people who identify with the following gender(s):
+8 I identify most with the following religion:
+9 I'd be interested in getting to know more people of the following religion(s):
+10 I identify most with the following political party:
+11 I prefer hanging out with friends who identify with the following political party(ies):
+12 I consider my family to be from the following socioeconomic background:
+13 It’s important that my friends come from a similar socioeconomic background as me.
+14 My major is:
+15 I'd like to get to know more people that study the same thing as I do.
+16 If I had the next billion-dollar idea, I would quit Stanford to make it a reality.
+17 I like explaining things to my friends, and helping them with their homework.
+18 I like preparing for job interviews with my friends.
+19 How intelligent do you consider yourself?
+20 I like hanging out with people who are smarter than me.
+21 I am always honest with my friends.
+22 I only hang out with people like me.
+23 I am the life of the party.
+24 I enjoy drinking with my friends.
+25 I smoke cigarettes with my friends.
+26 I do drugs with my friends.
+27 l find political satire funny.
+28 I enjoy sarcasm.
+29 I like to make music with my friends.
+30 I like to explore new cities with my friends.
+31 I go to the gym with my friends often.
+32 I like to play sports with my friends.
+33 I often like to go out late with my friends.
+34 I love spending time camping, hiking, and being outdoors.
+35 I would love to spend some time living on a boat.
+36 I hang out with my friends...
+37 I lean towards being more...sensible / imaginative
+38 I characterize myself as... serious & determined / easygoing
+39 I am more often...logic driven (1) / emotionally driven (5)
+40 I prefer...many friends with brief contact / a few friends with more lengthy contact
+41 I prefer my life to be...structured and scheduled / spontaneous and whimsical
+42 I'm inclined to be... easy to approach / somewhat reserved
+43 I enjoy music in these categories:
+44 I enjoy talking to my friends about... (select 3)
+45 How chill are you?
+46 Write a quick blurb about yourself that your potential matches will get to see! (optional)
+47 One last question... what percentage of questions on this form did you answer completely honestly?
+48 Your thoughts about the form
